@@ -1,0 +1,39 @@
+_repo: Souvernirs-de-Charles-Henri-Baron-de-Gleichen_37762
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gleichen, Charles Henri, baron de
+    alias: Gleichen, Charles-Henri de
+    birthdate: 1733
+    deathdate: 1807
+    gutenberg_agent_id: '39042'
+    url: http://www.gutenberg.org/2009/agents/39042
+  editor:
+    agent_name: Grimblot, Paul
+    aliases:
+    - Grimblot, P. (Paul)
+    - Grimblot, Jean-Paul-Auguste
+    birthdate: 1817
+    deathdate: 1870
+    gutenberg_agent_id: '39406'
+    url: http://www.gutenberg.org/2009/agents/39406
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2011-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37762'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Choiseul, Etienne-François, duc de, 1719-1785'
+- !lcsh 'Gleichen, Charles Henri, baron de, 1733-1807'
+- !lcc 'D'
+- !lcsh 'Necker, Jacques, 1732-1804'
+title: Souvenirs de Charles-Henri Baron de Gleichen
+url: http://www.gutenberg.org/ebooks/37762
